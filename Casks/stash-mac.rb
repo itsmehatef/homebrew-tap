@@ -21,9 +21,9 @@ cask "stash-mac" do
 
   zap trash: [
     "~/Library/Application Support/Stash",
-    "~/Library/Preferences/com.hatefkasraei.Stash.plist",
     "~/Library/Caches/com.hatefkasraei.Stash",
     "~/Library/HTTPStorages/com.hatefkasraei.Stash",
+    "~/Library/Preferences/com.hatefkasraei.Stash.plist",
     "~/Library/Saved Application State/com.hatefkasraei.Stash.savedState",
   ]
 end
